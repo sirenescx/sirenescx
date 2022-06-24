@@ -1,4 +1,4 @@
-<code>
+```python
 from dataclasses import dataclass
 
 
@@ -10,7 +10,7 @@ class Me:
     position: str = 'Data Scientist'
     company: str = 'Ozon.ru'
     team: str = 'Search'
-</code>
+```
 
 <!--
 **sirenescx/sirenescx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
