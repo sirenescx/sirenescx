@@ -1,4 +1,14 @@
-### Hi there 👋
+from dataclasses import dataclass
+
+
+@dataclass
+class Me:
+  name: str = 'Maria Manakhova'
+  university: str = 'National Research University Higher School of Economics'
+  degree: str = 'bachelor'
+  position: str = 'Data Scientist'
+  company: str = 'Ozon.ru'
+  team: str = 'Search'
 
 <!--
 **sirenescx/sirenescx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  
+  
+
