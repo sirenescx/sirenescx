@@ -8,8 +8,8 @@ class Me:
     university: str = 'National Research University Higher School of Economics'
     faculty: str = 'Faculty of Computer Science'
     degree: str = 'bachelor'
-    position: str = 'Data Scientist'
     company: str = 'Ozon.ru'
+    position: str = 'Data Scientist'
     team: str = 'Search'
 ```
 
