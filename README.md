@@ -7,9 +7,9 @@ class Me:
     name: str = 'Maria Manakhova'
     university: str = 'National Research University Higher School of Economics'
     faculty: str = 'Faculty of Computer Science'
-    degree: str = 'masters'
+    degree: str = 'bachelor'
     company: str = 'Ozon.ru'
-    position: str = 'Data Scientist'
+    position: str = 'Machine Learning Engineer'
     team: str = 'Search'
 ```
 
