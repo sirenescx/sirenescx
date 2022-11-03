@@ -13,7 +13,7 @@ class Me:
     team: str = 'Search'
 ```
 
-<code>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/mmanakhova)</code>
+<code>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mmanakhova)</code>
 
   
   
