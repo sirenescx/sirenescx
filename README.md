@@ -7,10 +7,10 @@ class Me:
     name: str = 'Maria Manakhova'
     university: str = 'National Research University Higher School of Economics'
     faculty: str = 'Faculty of Computer Science'
-    degree: str = 'bachelor'
-    company: str = 'Ozon.ru'
-    position: str = 'Machine Learning Engineer'
-    team: str = 'Search'
+    degree: str = 'master'
+    company: str = 'Yandex'
+    position: str = 'Software Engineer'
+    team: str = 'Search Quality'
 ```
 
 <code>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mmanakhova)</code>
