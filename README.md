@@ -5,7 +5,7 @@ from dataclasses import dataclass
 @dataclass
 class Me:
     name: str = 'Maria Manakhova'
-    university: str = 'National Research University Higher School of Economics'
+    university: str = 'HSE University'
     faculty: str = 'Faculty of Computer Science'
     degree: str = 'master'
     company: str = 'Yandex'
