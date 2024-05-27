@@ -2,10 +2,10 @@
 
 
 👩🏼‍💻
-I am a software engineer currently working at [Yandex](https://yandex.com/company/).
+**Software engineer currently working at [Yandex](https://yandex.com/company/)**
 
 👩🏼‍🎓 
-HSE University'24 | Master of Computer Science
+**HSE University'24 | Master of Computer Science**
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,gradle,spring,graphql,cs,dotnet,python,django,postgresql,elasticsearch,redis,docker,grafana,prometheus&theme=light" width="530" />
 
