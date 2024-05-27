@@ -14,6 +14,8 @@ class Me:
 ```
 
 [![linkedin](https://img.shields.io/badge/linkedin-0068ca?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mmanakhova)](https://www.linkedin.com/in/mmanakhova)
+
+<br>
 <br>
 
 ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
