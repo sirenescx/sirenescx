@@ -13,7 +13,8 @@ class Me:
     team: str = 'Search Quality'
 ```
 
-<code>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mmanakhova)</code>
+[![linkedin](https://img.shields.io/badge/linkedin-0068ca?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mmanakhova)](https://www.linkedin.com/in/mmanakhova)
+<br>
 
 ![image](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
