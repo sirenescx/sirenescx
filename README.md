@@ -7,6 +7,9 @@
 👩🏼‍🎓 
 **HSE University'24 | Master of Computer Science**
 
+📍
+**Yerevan, Armenia UTC+4**
+
 <img src="https://skillicons.dev/icons?i=kotlin,java,gradle,spring,graphql,cs,dotnet,python,django,postgresql,elasticsearch,redis,docker,grafana,prometheus&theme=light" width="530" />
 
 [![linkedin](https://img.shields.io/badge/linkedin-mmanakhova-78bef4?labelColor=0068ca&style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mmanakhova)](https://www.linkedin.com/in/mmanakhova)
