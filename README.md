@@ -1,4 +1,5 @@
-## Hey, I am Maria 👋🏻
+## Hey, I am Maria 🙋🏼‍♀️
+
 
 👩🏼‍💻
 I am a software engineer currently working at [Yandex](https://yandex.com/company/).
