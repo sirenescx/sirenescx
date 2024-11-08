@@ -2,13 +2,13 @@
 
 
 👩🏼‍💻
-**Software engineer currently working at [Yandex](https://yandex.com/company/)**
+**Software engineer currently working at [Stripe](https://stripe.com/)**
 
 👩🏼‍🎓 
 **HSE University'24 | Master of Computer Science**
 
 📍
-**Yerevan, Armenia UTC+4**
+**Dublin, Ireland UTC+1**
 
 <img src="https://skillicons.dev/icons?i=redis,prometheus,grafana,python,elasticsearch,spring,django,gradle,docker,postgresql,java,dotnet,cs,kotlin,graphql&theme=light" width="528" />
 
